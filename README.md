@@ -1,4 +1,4 @@
-# C-BMP-DEMO
+# c-bmp-demo
 
 A simple Bitmap (BMP) functionality demo written in C without dependencies.
 
